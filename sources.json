@@ -1,6 +1,21 @@
 {
   "sources": [
     {
+      "id": "hei",
+      "name": "Hei Music聚合源",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/shellsec/lx-music-source/master/sources/hei/Hei%20Music%E8%81%9A%E5%90%88%E6%BA%90.js"
+    },
+    {
+      "id": "nianxin",
+      "name": "念心音源",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/shellsec/lx-music-source/master/sources/nianxin/%E5%BF%B5%E5%BF%83%E9%9F%B3%E6%BA%90.js"
+    },
+    {
+      "id": "qdy",
+      "name": "全豆要[聚合音源]",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/shellsec/lx-music-source/master/sources/qdy/%E5%85%A8%E8%B1%86%E8%A6%81%5B%E8%81%9A%E5%90%88%E9%9F%B3%E6%BA%90%5D.js"
+    },
+    {
       "id": "appx64",
       "name": "Appx64 Clear Music",
       "url": "https://gh-proxy.com/raw.githubusercontent.com/shellsec/lx-music-source/master/sources/appx64/Appx64%20Clear%20Music.js"
@@ -61,11 +76,6 @@
       "url": "https://gh-proxy.com/raw.githubusercontent.com/shellsec/lx-music-source/master/sources/hyw/HYWmusic_%E5%85%AC%E7%9B%8A%E7%89%88.js"
     },
     {
-      "id": "qdy",
-      "name": "全豆要[聚合音源]",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/shellsec/lx-music-source/master/sources/qdy/%E5%85%A8%E8%B1%86%E8%A6%81%5B%E8%81%9A%E5%90%88%E9%9F%B3%E6%BA%90%5D.js"
-    },
-    {
       "id": "grass",
       "name": "野草🌾",
       "url": "https://gh-proxy.com/raw.githubusercontent.com/shellsec/lx-music-source/master/sources/grass/%E9%87%8E%E8%8D%89%F0%9F%8C%BE.js"
@@ -74,11 +84,6 @@
       "id": "lx",
       "name": "独家音源",
       "url": "https://gh-proxy.com/raw.githubusercontent.com/shellsec/lx-music-source/master/sources/lx/%E7%8B%AC%E5%AE%B6%E9%9F%B3%E6%BA%90.js"
-    },
-    {
-      "id": "hei",
-      "name": "Hei Music聚合源",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/shellsec/lx-music-source/master/sources/hei/Hei%20Music%E8%81%9A%E5%90%88%E6%BA%90.js"
     },
     {
       "id": "gd-studio",
@@ -99,11 +104,6 @@
       "id": "huibi",
       "name": "回避聚合 (HuiBi Aggregate)",
       "url": "https://gh-proxy.com/raw.githubusercontent.com/shellsec/lx-music-source/master/sources/huibi/%E5%9B%9E%E9%81%BF%E8%81%9A%E5%90%88%20(HuiBi%20Aggregate).js"
-    },
-    {
-      "id": "nianxin",
-      "name": "念心音源",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/shellsec/lx-music-source/master/sources/nianxin/%E5%BF%B5%E5%BF%83%E9%9F%B3%E6%BA%90.js"
     },
     {
       "id": "kulao",
